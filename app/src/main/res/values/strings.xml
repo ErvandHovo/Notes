@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Notes</string>
+
+    <string name="sign_in">Login</string>
+    <string name="register">Register</string>
+    <string name="save_note">Save</string>
+    <string name="delete_note">addNote</string>
+    <string name="logout_note">deleteNote</string>
+    <string name="color_chooser">Select Color</string>
+    <string name="date_chooser">Select Date</string>
+    <string name="time_chooser">Select Time</string>
+    <string name="notification_state_on">Notification On</string>
+    <string name="notification_state_off">Notification Off</string>
+    <string name="add_note">addNote</string>
+    <string name="delete_note_btn">Delete</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="already_have_an_account">Already have an account?</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
